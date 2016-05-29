@@ -3,19 +3,19 @@
   <channel>
     <title>Joe Zeng</title>
     <description>Software and Sports</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 29 May 2016 13:10:20 -0400</pubDate>
-    <lastBuildDate>Sun, 29 May 2016 13:10:20 -0400</lastBuildDate>
+    <link>http://blog.joezeng.me/</link>
+    <atom:link href="http://blog.joezeng.me/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 29 May 2016 14:01:31 -0400</pubDate>
+    <lastBuildDate>Sun, 29 May 2016 14:01:31 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>About Me</title>
-        <description>&lt;p&gt;Hey! I’m a computer science student at the University of Waterloo going into my third year of study. This summer, I’m interning at Kik Interactive working on their chat bot platform. I am an avid tennis player and rock climber and love following basketball (although ball is definetly not life). I’m going to try and document bits of my life here so stay tuned :)&lt;/p&gt;
+        <description>&lt;p&gt;Hey! I’m a computer science student at the University of Waterloo going into my third year of study. This summer, I’m interning at Kik Interactive working on their chat bot platform. I am an avid tennis player and rock climber and love following basketball (although ball is definitely not life). I’m going to try and document bits of my life here so stay tuned :)&lt;/p&gt;
 </description>
         <pubDate>Sun, 29 May 2016 00:00:00 -0400</pubDate>
-        <link>/about/</link>
-        <guid isPermaLink="true">/about/</guid>
+        <link>http://blog.joezeng.me/about/</link>
+        <guid isPermaLink="true">http://blog.joezeng.me/about/</guid>
         
         
       </item>
