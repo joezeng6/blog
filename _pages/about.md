@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Joe Zeng
+title: Space
 permalink: /about
 comments: false
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github.
+Hey! I'm Joe Zeng, 23 year old Canadian living in Seattle. Creating this space as a dumping ground of thoughts in the hopes of better
